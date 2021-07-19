@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dharmendra Sharma
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning reactjs and nodejs
+- 🌱 I’m currently working in reactjs and nodejs
 - 💞️ I’m looking to collaborate on mern stack 
 - 📫 How to reach me- dharmendrasharma01212@gmail.com
 
